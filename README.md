@@ -5,7 +5,7 @@ Python program
 
 !!! Important:
 
-Need start wireless card monitor mode, use aircrak-ng to set this function 
+Need start wireless card monitor mode, use aircrak-ng 
 
 
 LIBS:
